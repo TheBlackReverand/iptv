@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr",TF1
-http://livetv.ktv.zone/3/play.m3u8
+https://live-tf1-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiIxODUuMzEuNDAuMjMiLCJjbWNkIjoiIiwiZXhwIjoxNzA3NzY2NTg4LCJnaWQiOiJiNzZjMzliZi0wMDlmLTQwMDctYTVkMC1mMzUyMWI5M2QwODUiLCJpYXQiOjE3MDc3NTIxODgsImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MjAwMDAwMCwic3RlbSI6Ii9vdXQvdjEvNzgwNTQyZjUxNmYxNDNmYzhhZDliZjE0NjIyMzE2ZTcvdGYxLWNtYWYiLCJzdWIiOiJiNzZjMzliZi0wMDlmLTQwMDctYTVkMC1mMzUyMWI5M2QwODUifQ.7izOwD4jx4X3nY7PMbSCkwtvtX1ufGQNWrjEiVTAMnU/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
 #EXTINF:-1 tvg-id="France2.fr",France 2
 http://livetv.ktv.zone/4/play.m3u8
 #EXTINF:-1 tvg-id="France3.fr",France 3
